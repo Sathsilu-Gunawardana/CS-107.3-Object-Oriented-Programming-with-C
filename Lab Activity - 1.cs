@@ -76,7 +76,7 @@ class LabActivity1
         Console.WriteLine();
 
 
-        //Question 5
+        // Question 5
 
         float BasicSalary;
         float Allowance;
